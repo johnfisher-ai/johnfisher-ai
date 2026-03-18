@@ -8,7 +8,7 @@ I am a technologist and statistician specializing in bridging the gap between co
 
 ### 🚀 What I'm Currently Building
 
-* **[aethos]:** Founder and lead developer of an AI-first programming language and platform. Designed from the ground up to be the best-in-class language for Data Cleaning, Machine Learning, and AI. Currently in the language definition and interpreter testing phase, with a roadmap toward hardware-targeted compilation for compute optimization, advanced memory management and AI/ML otimization. 
+* **[aethos]:** Founder and lead developer of an AI-first programming language and platform. Designed from the ground up to be the best-in-class language for Data Cleaning, Machine Learning, and AI. Currently in the language definition and interpreter testing phase, with a roadmap toward hardware-targeted compilation for compute optimization, advanced memory management and AI/ML optimization. 
 * **Academic Research:** Acting as Lead Statistician and Data Scientist alongside colleagues at the Statistical Institute. I focus on data cleaning, descriptive/predictive analysis, and statistical verification for peer-reviewed publications in behavioral psychology, nursing, drug addiction, and polling.
 * **Agentic AI & ML:** Exploring and building proofs-of-concept utilizing LangChain, LangGraph, Python, R, and SAS.
 * **Data Science & ML Portfolio:** Actively posting and sharing various data science, machine learning, and applied statistics projects. These repositories cover statistical testing, Agentic AI (LangChain/LangGraph), and other ML/DS proofs-of-concept written in Python, R, and SAS.
@@ -49,10 +49,10 @@ I am a technologist and statistician specializing in bridging the gap between co
 `Python` | `R` | `SAS` | `Java` | `Aethos (Creator)`
 
 **Enterprise Architecture & Data:**
-`Data Virtualization` | `Master Data Management` | `Complex Event Processing (CEP)` | `API Management` | `Integration` | `Cloud Technologies`
+`Data Virtualization` | `Master Data Management` | `Complex Event Processing (CEP)` | `API Led Architecture` | `Integration` | `Cloud Technologies`
 
 **Infrastructure & Security:**
-`TCP/IP` | `LDAP` | `PKI` | `Identity Management` | `Windows` | `Linux` | 'Security'
+`Hyper Scalers & Cloud` | `LDAP` | `PKI` | `Identity Management` | `Windows` | `Linux` | 'Security'
 
 ---
 
