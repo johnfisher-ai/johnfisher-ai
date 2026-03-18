@@ -27,6 +27,19 @@ I am a technologist and statistician specializing in bridging the gap between co
 
 ---
 
+### 🎓 Education & Academic Research
+
+**Education:**
+* **M.S. in Applied Statistics** | *West Chester University* | *Focus: Data Science*
+* **M.S. in Computer Science** | *Drexel University* | *Focus: Compiler Theory and Artificial Intelligence*
+* **B.S. in Computer Science** | *Drexel University*
+
+**Statistical Institute** | *Lead Statistician & Data Scientist*
+* Partner with research teams to investigate and publish peer-reviewed articles in behavioral psychology, nursing, drug addiction, and polling.
+* Lead the end-to-end data lifecycle, focusing on rigorous data cleaning, descriptive and predictive analysis, statistical verification, and the write-up of results.
+
+---
+
 ### 🛠 Technical Arsenal
 
 **Data Science & AI:**
