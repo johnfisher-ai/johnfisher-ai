@@ -43,16 +43,16 @@ I am a technologist and statistician specializing in bridging the gap between co
 ### 🛠 Technical Arsenal
 
 **Data Science & AI:**
-`Machine Learning` | `Agentic AI` | `Applied Statistics` | `Data Cleaning` | `Descriptive & Predictive Analytics` | `LangChain/LangGraph` | `MCP & A2A`
+Machine Learning | Agentic AI | Applied Statistics | Data Cleaning | Descriptive & Predictive Analytics | LangChain/LangGraph | MCP & A2A
 
 **Languages:**
-`Python` | `R` | `SAS` | `Java` | `Aethos (Creator)`
+Python | R | SAS | Java | Aethos (Creator)
 
 **Enterprise Architecture & Data:**
-`Data Virtualization` | `Master Data Management` | `Complex Event Processing (CEP)` | `API Led Architecture` | `Integration` | `Cloud Technologies`
+Data Virtualization | Master Data Management | Complex Event Processing (CEP) | API Led Architecture | Integration | Cloud Technologies
 
 **Infrastructure & Security:**
-`Hyper Scalers & Cloud` | `LDAP` | `PKI` | `Identity Management` | `Windows` | `Linux`
+Hyper Scalers & Cloud | LDAP | PKI | Identity Management | Windows | Linux
 
 ---
 
