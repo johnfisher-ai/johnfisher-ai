@@ -52,7 +52,7 @@ I am a technologist and statistician specializing in bridging the gap between co
 `Data Virtualization` | `Master Data Management` | `Complex Event Processing (CEP)` | `API Led Architecture` | `Integration` | `Cloud Technologies`
 
 **Infrastructure & Security:**
-`Hyper Scalers & Cloud` | `LDAP` | `PKI` | `Identity Management` | `Windows` | `Linux` | 'Security'
+`Hyper Scalers & Cloud` | `LDAP` | `PKI` | `Identity Management` | `Windows` | `Linux`
 
 ---
 
