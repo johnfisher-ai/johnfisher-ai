@@ -35,7 +35,7 @@ I am a technologist and statistician specializing in bridging the gap between co
 * **B.S. in Computer Science** | *Drexel University*
 
 **Statistical Institute** | *Lead Statistician & Data Scientist*
-* Partner with research teams to investigate and publish peer-reviewed articles in behavioral psychology, nursing, drug addiction, and polling.
+* Partner with research teams to investigate and publish peer-reviewed articles in behavioral psychology, nursing, drug addiction therapy and outcomes, and polling analysis.
 * Lead the end-to-end data lifecycle, focusing on rigorous data cleaning, descriptive and predictive analysis, statistical verification, and the write-up of results.
 
 ---
