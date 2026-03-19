@@ -1,4 +1,4 @@
-# Hi there, I'm John Fisher 👋
+# 👋 Hi there, I'm John Fisher
 
 **Principal Data Foundation Solution Engineer @ Salesforce | Lead Statistician | Creator of Aethos**
 
