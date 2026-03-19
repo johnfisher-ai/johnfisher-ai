@@ -1,6 +1,8 @@
+![John Fisher Profile Banner](LinkedIn_Personal_Banner.png)
+
 # 👋 Hi there, I'm John Fisher
 
-**Principal Data Foundation Solution Engineer @ Salesforce | Lead Statistician | Creator of Aethos**
+**Principal Data Foundation Solution Engineer @ Salesforce | Applied Data Science and Statistics | Creator of Aethos**
 
 I am a technologist and statistician specializing in bridging the gap between complex enterprise architecture and C-level business strategy. With advanced degrees in Computer Science (B.S., M.S.) and Applied Statistics (M.S.), I have a proven track record of mapping complex customer requirements into high-impact solutions. My work spans enterprise pre-sales leadership, rigorous academic research, and deep-in-the-weeds data science, machine learning, and compiler design.
 
