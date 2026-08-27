@@ -44,7 +44,7 @@ Lead statistician on a quasi-experimental pre/post study of interprofessional si
 ### 🎓 Education & Academic Research
 
 **Education:**
-* **M.S. in Applied Statistics** | *West Chester University* | *Focus: Data Science*
+* **M.S. in Applied Statistics** | *West Chester University* | *Focus: Data Science, Artificial Intelligence*
 * **M.S. in Computer Science** | *Drexel University* | *Focus: Compiler Theory and Artificial Intelligence*
 * **B.S. in Computer Science** | *Drexel University*
 
