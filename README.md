@@ -36,6 +36,10 @@ Lead statistician on a quasi-experimental pre/post study of interprofessional si
 * Specialize in data foundation technologies, including MuleSoft, Informatica, AI/MCP/A2A, and Agentic frameworks.
 * Collaborate closely with sales teams and customers to architect and deliver best-in-class data foundation and Agentic solutions.
 
+**West Chester University Statistical Institute** | *Lead Statistician and Data Scientist*
+* Partner with research teams to investigate and publish peer-reviewed articles in behavioral psychology, nursing, drug addiction therapy and outcomes, and polling analysis.
+* Lead the end-to-end data lifecycle, focusing on rigorous data cleaning, descriptive and predictive analysis, statistical verification, and the write-up of results.
+
 **TIBCO** | *Director Solution Engineering, Large Accounts*
 * Partnered with C-level executives to design and deliver large-scale enterprise data integration and advanced analytic solutions.
 
