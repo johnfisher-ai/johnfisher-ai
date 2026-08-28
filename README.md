@@ -21,15 +21,19 @@ I am a technologist and statistician specializing in bridging the gap between co
 
 **[Statistics, Data Science and AI: A Visual Handbook](https://github.com/johnfisher-ai/Statistics-Data-Science-AI-Visual-Book)** · [Read it live](https://johnfisher-ai.github.io/Statistics-Data-Science-AI-Visual-Book/)
 
-A clickable handbook covering statistics and data science end to end: 205 chapter pages, including 41 capstone walkthroughs, each paired with a runnable notebook that opens in Colab. Written for people who want the explanation and the code in the same place.
+A clickable handbook covering statistics and data science end to end: 205 chapter pages, including 41 capstone walkthroughs, each paired with a runnable notebook that opens in Colab. Written for people who want the explanation and the code in the same place. By John Fisher.
 
 **[Improving Confidence in Managing Patient Aggression](https://github.com/johnfisher-ai/fisher-wpv-aggression-study-sas)** · [Read the analysis](https://johnfisher-ai.github.io/fisher-wpv-aggression-study-sas/)
 
-Lead statistician on a quasi-experimental pre/post study of interprofessional simulation training at West Chester University, under review at the *Journal of Interprofessional Education & Practice*. The repository publishes the whole pipeline rather than just the result: three SAS programs, executed output, a full statistical write-up with effect sizes and assumption checks, and a Colab notebook reproducing the analysis in Python.
+Lead statistician on a quasi-experimental pre/post study of interprofessional simulation training at West Chester University, under review at the *Journal of Interprofessional Education & Practice*. The repository publishes the whole pipeline rather than just the result: three SAS programs, executed output, a full statistical write-up with effect sizes and assumption checks, and a Colab notebook reproducing the analysis in Python. By John Fisher, lead statistician.
 
 **[Measuring undergraduate nursing students' accetance of AI enabled virtual reality using AI generated simulation](https://github.com/johnfisher-ai/fisher-measure-ai-nursing-study)** · [Read the analysis](https://johnfisher-ai.github.io/fisher-measure-ai-nursing-study/)
 
-Technology acceptance analysis for a published nursing VR study: SAS program, executed output, full statistical write-up, Colab notebook and published study.
+Technology acceptance analysis for a published nursing VR study: SAS program, executed output, full statistical write-up, Colab notebook and published study. By John Fisher, lead statistician.
+
+**[Analysis of Psychosocial Treatments for Cocaine Dependence](https://github.com/johnfisher-ai/fisher-analysis-psychosocial-treatments)** · [Read the analysis](https://johnfisher-ai.github.io/fisher-analysis-psychosocial-treatments/)
+
+Statistical analysis of four psychosocial treatments for cocaine dependence, using data from the NIDA Collaborative Cocaine Treatment Study. The repository holds the SAS program, the executed SAS output, the presentation, and a Python notebook that reproduces the models. By John Fisher, lead statistician.
 
 ---
 
