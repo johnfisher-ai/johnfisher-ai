@@ -35,6 +35,10 @@ Technology acceptance analysis for a published nursing VR study: SAS program, ex
 
 Statistical analysis of four psychosocial treatments for cocaine dependence, using data from the NIDA Collaborative Cocaine Treatment Study. The repository holds the SAS program, the executed SAS output, the presentation, and a Python notebook that reproduces the models. By John Fisher, lead statistician.
 
+**[Depression and Substance Use in the United States](https://github.com/johnfisher-ai/fisher-nsduh-analysis)** · [Read the analysis](https://johnfisher-ai.github.io/fisher-nsduh-analysis/)
+
+An analysis of the National Survey on Drug Use and Health (NSDUH), 2022 to 2024. Three survey years pooled to 134,897 adults, examining who reports a past-year major depressive episode, which substances travel with it, and what the survey's own design changes about the answer. Write-up, R and Python Notebooks. By John Fisher, lead statistician.
+
 ---
 
 ### 💼 Professional Experience
