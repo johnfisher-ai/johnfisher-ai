@@ -27,6 +27,10 @@ A clickable handbook covering statistics and data science end to end: 205 chapte
 
 Lead statistician on a quasi-experimental pre/post study of interprofessional simulation training at West Chester University, under review at the *Journal of Interprofessional Education & Practice*. The repository publishes the whole pipeline rather than just the result: three SAS programs, executed output, a full statistical write-up with effect sizes and assumption checks, and a Colab notebook reproducing the analysis in Python.
 
+**[Improving Confidence in Managing Patient Aggression](https://github.com/johnfisher-ai/fisher-wpv-aggression-study-sas)** · [Read the analysis](https://johnfisher-ai.github.io/fisher-wpv-aggression-study-sas/)
+
+Lead statistician on a quasi-experimental pre/post study of interprofessional simulation training at West Chester University, under review at the *Journal of Interprofessional Education & Practice*. The repository publishes the whole pipeline rather than just the result: three SAS programs, executed output, a full statistical write-up with effect sizes and assumption checks, and a Colab notebook reproducing the analysis in Python.
+
 ---
 
 ### 💼 Professional Experience
