@@ -95,3 +95,7 @@ Hyper Scalers & Cloud | LDAP | PKI | Identity Management | Windows | Linux
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/johnrfisher/)
 * **Email:** [johnrfisher@gmail.com](mailto:johnrfisher@gmail.com)
 * **Reach out for:** Open source collaboration on `aethos`, discussions on Agentic AI, or enterprise data architecture.
+
+---
+
+<sub>John Fisher works for Salesforce. The views here are his own, not Salesforce's, and are drawn from public information; this site is not affiliated with or endorsed by Salesforce. Product names are trademarks of their owners.</sub>
